@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@sucrase/webpack-loader": "^2.0.0",
+    "nodemon-webpack-plugin": "^4.3.2",
+    "react-devtools": "^4.10.1",
+    "react-polyfills": "^0.0.1",
+    "sucrase": "^3.17.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1",
+    "webpack-dev-server": "^3.11.1",
+    "webpack-node-externals": "^2.5.2"
+  },
+  "dependencies": {
+    "neo-blessed": "^0.2.0",
+    "react": "^17.0.1",
+    "react-blessed": "^0.6.2",
+    "react-motion": "^0.5.2"
+  }
+}
